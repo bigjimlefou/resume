@@ -1,4 +1,18 @@
+.sidebar-wrapper {
+    left: 0;
+    right: unset;
+}
+.main-wrapper {
+    background: #fff;
+    padding: 60px;
+    padding-left: 300px;
+}
 .badge {
     color: #97AAC3;
     padding: unset;
+}
+.sidebar-wrapper .education-container .grade {
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 500;
+    margin-bottom: 0px;
 }
